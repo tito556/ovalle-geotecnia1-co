@@ -2,166 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap-0.9">
   <url>
     <loc>https://ovalle.geotecnia1.co/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/zapatas</loc>
+    <loc>https://ovalle.geotecnia1.co/aislacion-sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/excavaciones-profundas</loc>
+    <loc>https://ovalle.geotecnia1.co/anclajes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/inyecciones</loc>
+    <loc>https://ovalle.geotecnia1.co/calicatas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/anclajes</loc>
+    <loc>https://ovalle.geotecnia1.co/cbr-vial/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/microzonificacion-sismica</loc>
+    <loc>https://ovalle.geotecnia1.co/cimentaciones/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/sondajes-spt</loc>
+    <loc>https://ovalle.geotecnia1.co/columnas-grava/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/ensayo-cpt</loc>
+    <loc>https://ovalle.geotecnia1.co/densidad-cono-arena/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/triaxial</loc>
+    <loc>https://ovalle.geotecnia1.co/ensayo-cpt/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/licuefaccion</loc>
+    <loc>https://ovalle.geotecnia1.co/ensayos-proctor/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/aislacion-sismica</loc>
+    <loc>https://ovalle.geotecnia1.co/estabilidad-taludes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/muros-contencion</loc>
+    <loc>https://ovalle.geotecnia1.co/excavaciones-profundas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/refraccion-sismica</loc>
+    <loc>https://ovalle.geotecnia1.co/excavaciones-subterraneo/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/densidad-cono-arena</loc>
+    <loc>https://ovalle.geotecnia1.co/exploracion/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/cbr-vial</loc>
+    <loc>https://ovalle.geotecnia1.co/geotecnia-vial/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/pavimento-flexible</loc>
+    <loc>https://ovalle.geotecnia1.co/granulometria/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/vibrocompactacion</loc>
+    <loc>https://ovalle.geotecnia1.co/inyecciones/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/permeabilidad-in-situ</loc>
+    <loc>https://ovalle.geotecnia1.co/laboratorio-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/masw</loc>
+    <loc>https://ovalle.geotecnia1.co/laboratorio-lab/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/ensayos-proctor</loc>
+    <loc>https://ovalle.geotecnia1.co/licuefaccion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/tuneles-suelo-blando</loc>
+    <loc>https://ovalle.geotecnia1.co/limites-atterberg/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/estabilidad-taludes</loc>
+    <loc>https://ovalle.geotecnia1.co/losas-fundacion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/pilotes</loc>
+    <loc>https://ovalle.geotecnia1.co/masw/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/granulometria</loc>
+    <loc>https://ovalle.geotecnia1.co/mejoramiento/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/monitoreo-excavaciones</loc>
+    <loc>https://ovalle.geotecnia1.co/microzonificacion-sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/pavimento-rigido</loc>
+    <loc>https://ovalle.geotecnia1.co/monitoreo-excavaciones/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/columnas-grava</loc>
+    <loc>https://ovalle.geotecnia1.co/muros-contencion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/limites-atterberg</loc>
+    <loc>https://ovalle.geotecnia1.co/pavimento-flexible/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/resistividad</loc>
+    <loc>https://ovalle.geotecnia1.co/pavimento-rigido/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/contacto</loc>
+    <loc>https://ovalle.geotecnia1.co/permeabilidad-in-situ/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/calicatas</loc>
+    <loc>https://ovalle.geotecnia1.co/pilotes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/losas-fundacion</loc>
+    <loc>https://ovalle.geotecnia1.co/refraccion-sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ovalle.geotecnia1.co/privacidad</loc>
+    <loc>https://ovalle.geotecnia1.co/resistividad/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ovalle.geotecnia1.co/sismica/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ovalle.geotecnia1.co/sitemap/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ovalle.geotecnia1.co/sondajes-spt/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ovalle.geotecnia1.co/taludes/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ovalle.geotecnia1.co/triaxial/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ovalle.geotecnia1.co/tuneles-suelo-blando/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ovalle.geotecnia1.co/vibrocompactacion/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ovalle.geotecnia1.co/zapatas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
